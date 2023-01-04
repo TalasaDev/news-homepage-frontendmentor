@@ -32,14 +32,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
 ![image](https://user-images.githubusercontent.com/119393713/210499627-09f20042-8c6b-4765-ae60-1e9b031e58cd.png)
 ![image](https://user-images.githubusercontent.com/119393713/210499675-fb4abe5b-4b0f-4d57-84f7-0851d704a0e2.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [[Add solution URL here](https://github.com/TalasaDev/news-homepage-frontendmentor)](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
