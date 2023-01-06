@@ -56,7 +56,7 @@ Users should be able to:
 
 In this challenge I learned how to:
 
-- use <picture> and srcset="" attribute to use different versions of an image for different display/device scenarios.
+- use picture and srcset attribute to use different versions of an image for different display/device scenarios.
 
 - create a webpage layout using using the 12 columns layout. 
 
@@ -71,7 +71,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ### Useful resources
 
 - [dev.to](https://dev.to/ljcdev/easy-hamburger-menu-with-js-2do0) - This helped me with the hamburguer menu and teach with a very straightforward explanation how to add the toggle functionality with Javascript.
-- [freecodecamp]("Learn CSS Grid by Building 5 Layouts in 17 minutes") - This is a great source to learn and familiarise yourself with grid layout in a very simple, straight to the point way. As promised, after 17 minutes, you'd have learnt 5 different grid layouts, and will be ready for the challenge. 
+- [freecodecamp blog]("Learn CSS Grid by Building 5 Layouts in 17 minutes") - This is a great source to learn and familiarise yourself with grid layout in a very simple, straight to the point way. As promised, after 17 minutes, you'd have learnt 5 different grid layouts, and will be ready for the challenge. 
 
 
 ## Author
