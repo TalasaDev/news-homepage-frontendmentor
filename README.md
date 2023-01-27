@@ -62,6 +62,8 @@ In this challenge I learned how to:
 
 - make a hamburger menu using CSS and Javascript to make it functional.
 
+- how to create a dimmer effect when toggling the menu.
+
 
 ### Continued development
 
@@ -70,6 +72,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
+- [MDN docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture) - Using <picture> and srcset attribute.
+- [w3docs](https://www.w3docs.com) - HOW TO section: how to overlay images. Great resource to understand how positioning elements.
 - [dev.to](https://dev.to/ljcdev/easy-hamburger-menu-with-js-2do0) - This helped me with the hamburguer menu and teach with a very straightforward explanation how to add the toggle functionality with Javascript.
 - [freecodecamp blog]("Learn CSS Grid by Building 5 Layouts in 17 minutes") - This is a great source to learn and familiarise yourself with grid layout in a very simple, straight to the point way. As promised, after 17 minutes, you'd have learnt 5 different grid layouts, and will be ready for the challenge. 
 
